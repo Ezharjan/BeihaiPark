@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: f260aad3224427f4f9a70a854e3dc05f
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ManC Bip01
+    100002: ManC Controller Eye L
+    100004: ManC Controller Eye R
+    100006: ManC Head
+    100008: ManC HeadNub
+    100010: ManC L Calf
+    100012: ManC L Clavicle
+    100014: ManC L Finger0
+    100016: ManC L Finger01
+    100018: ManC L Finger02
+    100020: ManC L Finger0Nub
+    100022: ManC L Finger1
+    100024: ManC L Finger11
+    100026: ManC L Finger12
+    100028: ManC L Finger1Nub
+    100030: ManC L Finger2
+    100032: ManC L Finger21
+    100034: ManC L Finger22
+    100036: ManC L Finger2Nub
+    100038: ManC L Finger3
+    100040: ManC L Finger31
+    100042: ManC L Finger32
+    100044: ManC L Finger3Nub
+    100046: ManC L Finger4
+    100048: ManC L Finger41
+    100050: ManC L Finger42
+    100052: ManC L Finger4Nub
+    100054: ManC L Foot
+    100056: ManC L Forearm
+    100058: ManC L Hand
+    100060: ManC L Thigh
+    100062: ManC L Toe0
+    100064: ManC L Toe0Nub
+    100066: ManC L UpperArm
+    100068: ManC Neck
+    100070: ManC Pelvis
+    100072: ManC R Calf
+    100074: ManC R Clavicle
+    100076: ManC R Finger0
+    100078: ManC R Finger01
+    100080: ManC R Finger02
+    100082: ManC R Finger0Nub
+    100084: ManC R Finger1
+    100086: ManC R Finger11
+    100088: ManC R Finger12
+    100090: ManC R Finger1Nub
+    100092: ManC R Finger2
+    100094: ManC R Finger21
+    100096: ManC R Finger22
+    100098: ManC R Finger2Nub
+    100100: ManC R Finger3
+    100102: ManC R Finger31
+    100104: ManC R Finger32
+    100106: ManC R Finger3Nub
+    100108: ManC R Finger4
+    100110: ManC R Finger41
+    100112: ManC R Finger42
+    100114: ManC R Finger4Nub
+    100116: ManC R Foot
+    100118: ManC R Forearm
+    100120: ManC R Hand
+    100122: ManC R Thigh
+    100124: ManC R Toe0
+    100126: ManC R Toe0Nub
+    100128: ManC R UpperArm
+    100130: ManC Spine
+    100132: ManC Spine1
+    100134: ManC Spine2
+    100136: ManC Spine3
+    100138: ManC talk chin
+    100140: ManC talk lower lip01
+    100142: ManC talk lower lip02
+    100144: ManC talk mouth l01
+    100146: ManC talk mouth l02
+    100148: ManC talk mouth r01
+    100150: ManC talk mouth r02
+    100152: ManC talk upper lip01
+    100154: ManC talk upper lip02
+    100156: ManC X_l01
+    100158: ManC X_l02
+    100160: ManC X_r01
+    100162: ManC X_r02
+    100164: ManC Z_l01
+    100166: ManC Z_l02
+    100168: ManC Z_r01
+    100170: ManC Z_r02
+    100172: //RootNode
+    400000: ManC Bip01
+    400002: ManC Controller Eye L
+    400004: ManC Controller Eye R
+    400006: ManC Head
+    400008: ManC HeadNub
+    400010: ManC L Calf
+    400012: ManC L Clavicle
+    400014: ManC L Finger0
+    400016: ManC L Finger01
+    400018: ManC L Finger02
+    400020: ManC L Finger0Nub
+    400022: ManC L Finger1
+    400024: ManC L Finger11
+    400026: ManC L Finger12
+    400028: ManC L Finger1Nub
+    400030: ManC L Finger2
+    400032: ManC L Finger21
+    400034: ManC L Finger22
+    400036: ManC L Finger2Nub
+    400038: ManC L Finger3
+    400040: ManC L Finger31
+    400042: ManC L Finger32
+    400044: ManC L Finger3Nub
+    400046: ManC L Finger4
+    400048: ManC L Finger41
+    400050: ManC L Finger42
+    400052: ManC L Finger4Nub
+    400054: ManC L Foot
+    400056: ManC L Forearm
+    400058: ManC L Hand
+    400060: ManC L Thigh
+    400062: ManC L Toe0
+    400064: ManC L Toe0Nub
+    400066: ManC L UpperArm
+    400068: ManC Neck
+    400070: ManC Pelvis
+    400072: ManC R Calf
+    400074: ManC R Clavicle
+    400076: ManC R Finger0
+    400078: ManC R Finger01
+    400080: ManC R Finger02
+    400082: ManC R Finger0Nub
+    400084: ManC R Finger1
+    400086: ManC R Finger11
+    400088: ManC R Finger12
+    400090: ManC R Finger1Nub
+    400092: ManC R Finger2
+    400094: ManC R Finger21
+    400096: ManC R Finger22
+    400098: ManC R Finger2Nub
+    400100: ManC R Finger3
+    400102: ManC R Finger31
+    400104: ManC R Finger32
+    400106: ManC R Finger3Nub
+    400108: ManC R Finger4
+    400110: ManC R Finger41
+    400112: ManC R Finger42
+    400114: ManC R Finger4Nub
+    400116: ManC R Foot
+    400118: ManC R Forearm
+    400120: ManC R Hand
+    400122: ManC R Thigh
+    400124: ManC R Toe0
+    400126: ManC R Toe0Nub
+    400128: ManC R UpperArm
+    400130: ManC Spine
+    400132: ManC Spine1
+    400134: ManC Spine2
+    400136: ManC Spine3
+    400138: ManC talk chin
+    400140: ManC talk lower lip01
+    400142: ManC talk lower lip02
+    400144: ManC talk mouth l01
+    400146: ManC talk mouth l02
+    400148: ManC talk mouth r01
+    400150: ManC talk mouth r02
+    400152: ManC talk upper lip01
+    400154: ManC talk upper lip02
+    400156: ManC X_l01
+    400158: ManC X_l02
+    400160: ManC X_r01
+    400162: ManC X_r02
+    400164: ManC Z_l01
+    400166: ManC Z_l02
+    400168: ManC Z_r01
+    400170: ManC Z_r02
+    400172: //RootNode
+    7400000: ManC@idle
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

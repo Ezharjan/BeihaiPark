@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 3a30c00e5901a6a4eaea991bcaa84291
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ManD Bip01
+    100002: ManD Head
+    100004: ManD HeadNub
+    100006: ManD L Calf
+    100008: ManD L Clavicle
+    100010: ManD L Finger0
+    100012: ManD L Finger01
+    100014: ManD L Finger0Nub
+    100016: ManD L Finger1
+    100018: ManD L Finger11
+    100020: ManD L Finger1Nub
+    100022: ManD L Foot
+    100024: ManD L Forearm
+    100026: ManD L Hand
+    100028: ManD L Thigh
+    100030: ManD L Toe0
+    100032: ManD L Toe0Nub
+    100034: ManD L UpperArm
+    100036: ManD Neck
+    100038: ManD Pelvis
+    100040: ManD R Calf
+    100042: ManD R Clavicle
+    100044: ManD R Finger0
+    100046: ManD R Finger01
+    100048: ManD R Finger0Nub
+    100050: ManD R Finger1
+    100052: ManD R Finger11
+    100054: ManD R Finger1Nub
+    100056: ManD R Foot
+    100058: ManD R Forearm
+    100060: ManD R Hand
+    100062: ManD R Thigh
+    100064: ManD R Toe0
+    100066: ManD R Toe0Nub
+    100068: ManD R UpperArm
+    100070: ManD Spine
+    100072: ManD Spine1
+    100074: ManD Spine2
+    100076: ManD Spine3
+    100078: ManD talk chin
+    100080: //RootNode
+    400000: ManD Bip01
+    400002: ManD Head
+    400004: ManD HeadNub
+    400006: ManD L Calf
+    400008: ManD L Clavicle
+    400010: ManD L Finger0
+    400012: ManD L Finger01
+    400014: ManD L Finger0Nub
+    400016: ManD L Finger1
+    400018: ManD L Finger11
+    400020: ManD L Finger1Nub
+    400022: ManD L Foot
+    400024: ManD L Forearm
+    400026: ManD L Hand
+    400028: ManD L Thigh
+    400030: ManD L Toe0
+    400032: ManD L Toe0Nub
+    400034: ManD L UpperArm
+    400036: ManD Neck
+    400038: ManD Pelvis
+    400040: ManD R Calf
+    400042: ManD R Clavicle
+    400044: ManD R Finger0
+    400046: ManD R Finger01
+    400048: ManD R Finger0Nub
+    400050: ManD R Finger1
+    400052: ManD R Finger11
+    400054: ManD R Finger1Nub
+    400056: ManD R Foot
+    400058: ManD R Forearm
+    400060: ManD R Hand
+    400062: ManD R Thigh
+    400064: ManD R Toe0
+    400066: ManD R Toe0Nub
+    400068: ManD R UpperArm
+    400070: ManD Spine
+    400072: ManD Spine1
+    400074: ManD Spine2
+    400076: ManD Spine3
+    400078: ManD talk chin
+    400080: //RootNode
+    7400000: ManD@walk
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

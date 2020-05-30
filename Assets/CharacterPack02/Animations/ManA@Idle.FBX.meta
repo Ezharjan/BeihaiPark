@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 805ad3f848127aa4aa871b36d751b797
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ManA Bip01
+    100002: ManA Head
+    100004: ManA HeadNub
+    100006: ManA L Calf
+    100008: ManA L Clavicle
+    100010: ManA L Finger0
+    100012: ManA L Finger01
+    100014: ManA L Finger0Nub
+    100016: ManA L Finger1
+    100018: ManA L Finger11
+    100020: ManA L Finger1Nub
+    100022: ManA L Foot
+    100024: ManA L Forearm
+    100026: ManA L Hand
+    100028: ManA L Thigh
+    100030: ManA L Toe0
+    100032: ManA L Toe0Nub
+    100034: ManA L UpperArm
+    100036: ManA Neck
+    100038: ManA Pelvis
+    100040: ManA R Calf
+    100042: ManA R Clavicle
+    100044: ManA R Finger0
+    100046: ManA R Finger01
+    100048: ManA R Finger0Nub
+    100050: ManA R Finger1
+    100052: ManA R Finger11
+    100054: ManA R Finger1Nub
+    100056: ManA R Foot
+    100058: ManA R Forearm
+    100060: ManA R Hand
+    100062: ManA R Thigh
+    100064: ManA R Toe0
+    100066: ManA R Toe0Nub
+    100068: ManA R UpperArm
+    100070: ManA Spine
+    100072: ManA Spine1
+    100074: ManA Spine2
+    100076: ManA Spine3
+    100078: ManA talk chin
+    100080: ManA talk lower lip01
+    100082: ManA talk lower lip02
+    100084: ManA talk mouth l01
+    100086: ManA talk mouth l02
+    100088: ManA talk mouth r01
+    100090: ManA talk mouth r02
+    100092: ManA talk upper lip01
+    100094: ManA talk upper lip02
+    100096: ManA X_l01
+    100098: ManA X_l02
+    100100: ManA X_r01
+    100102: ManA X_r02
+    100104: ManA Z_l01
+    100106: ManA Z_l02
+    100108: ManA Z_r01
+    100110: ManA Z_r02
+    100112: //RootNode
+    400000: ManA Bip01
+    400002: ManA Head
+    400004: ManA HeadNub
+    400006: ManA L Calf
+    400008: ManA L Clavicle
+    400010: ManA L Finger0
+    400012: ManA L Finger01
+    400014: ManA L Finger0Nub
+    400016: ManA L Finger1
+    400018: ManA L Finger11
+    400020: ManA L Finger1Nub
+    400022: ManA L Foot
+    400024: ManA L Forearm
+    400026: ManA L Hand
+    400028: ManA L Thigh
+    400030: ManA L Toe0
+    400032: ManA L Toe0Nub
+    400034: ManA L UpperArm
+    400036: ManA Neck
+    400038: ManA Pelvis
+    400040: ManA R Calf
+    400042: ManA R Clavicle
+    400044: ManA R Finger0
+    400046: ManA R Finger01
+    400048: ManA R Finger0Nub
+    400050: ManA R Finger1
+    400052: ManA R Finger11
+    400054: ManA R Finger1Nub
+    400056: ManA R Foot
+    400058: ManA R Forearm
+    400060: ManA R Hand
+    400062: ManA R Thigh
+    400064: ManA R Toe0
+    400066: ManA R Toe0Nub
+    400068: ManA R UpperArm
+    400070: ManA Spine
+    400072: ManA Spine1
+    400074: ManA Spine2
+    400076: ManA Spine3
+    400078: ManA talk chin
+    400080: ManA talk lower lip01
+    400082: ManA talk lower lip02
+    400084: ManA talk mouth l01
+    400086: ManA talk mouth l02
+    400088: ManA talk mouth r01
+    400090: ManA talk mouth r02
+    400092: ManA talk upper lip01
+    400094: ManA talk upper lip02
+    400096: ManA X_l01
+    400098: ManA X_l02
+    400100: ManA X_r01
+    400102: ManA X_r02
+    400104: ManA Z_l01
+    400106: ManA Z_l02
+    400108: ManA Z_r01
+    400110: ManA Z_r02
+    400112: //RootNode
+    7400000: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: ManA@idle
+      firstFrame: 0
+      lastFrame: 351
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ManA Bip01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA L Thigh
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA L Thigh/ManA L Calf
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA L Thigh/ManA L Calf/ManA L Foot
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA L Thigh/ManA L Calf/ManA L Foot/ManA
+          L Toe0
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA L Thigh/ManA L Calf/ManA L Foot/ManA
+          L Toe0/ManA L Toe0Nub
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA R Thigh
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA R Thigh/ManA R Calf
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA R Thigh/ManA R Calf/ManA R Foot
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA R Thigh/ManA R Calf/ManA R Foot/ManA
+          R Toe0
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA R Thigh/ManA R Calf/ManA R Foot/ManA
+          R Toe0/ManA R Toe0Nub
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA HeadNub
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA talk chin
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA talk chin/ManA talk lower lip01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA talk chin/ManA talk lower lip01/ManA talk lower lip02
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA talk mouth l01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA talk mouth l01/ManA talk mouth l02
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA talk mouth r01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA talk mouth r01/ManA talk mouth r02
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA talk upper lip01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA talk upper lip01/ManA talk upper lip02
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA X_l01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA X_l01/ManA X_l02
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA X_r01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA X_r01/ManA X_r02
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA Z_l01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA Z_l01/ManA Z_l02
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA Z_r01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA Head/ManA Z_r01/ManA Z_r02
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA L Clavicle
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA L Clavicle/ManA L UpperArm
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA L Clavicle/ManA L UpperArm/ManA L Forearm
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA L Clavicle/ManA L UpperArm/ManA L Forearm/ManA L Hand
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA L Clavicle/ManA L UpperArm/ManA L Forearm/ManA L Hand/ManA L Finger0
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA L Clavicle/ManA L UpperArm/ManA L Forearm/ManA L Hand/ManA L Finger0/ManA
+          L Finger01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA L Clavicle/ManA L UpperArm/ManA L Forearm/ManA L Hand/ManA L Finger0/ManA
+          L Finger01/ManA L Finger0Nub
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA L Clavicle/ManA L UpperArm/ManA L Forearm/ManA L Hand/ManA L Finger1
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA L Clavicle/ManA L UpperArm/ManA L Forearm/ManA L Hand/ManA L Finger1/ManA
+          L Finger11
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA L Clavicle/ManA L UpperArm/ManA L Forearm/ManA L Hand/ManA L Finger1/ManA
+          L Finger11/ManA L Finger1Nub
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA R Clavicle
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA R Clavicle/ManA R UpperArm
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA R Clavicle/ManA R UpperArm/ManA R Forearm
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA R Clavicle/ManA R UpperArm/ManA R Forearm/ManA R Hand
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA R Clavicle/ManA R UpperArm/ManA R Forearm/ManA R Hand/ManA R Finger0
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA R Clavicle/ManA R UpperArm/ManA R Forearm/ManA R Hand/ManA R Finger0/ManA
+          R Finger01
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA R Clavicle/ManA R UpperArm/ManA R Forearm/ManA R Hand/ManA R Finger0/ManA
+          R Finger01/ManA R Finger0Nub
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA R Clavicle/ManA R UpperArm/ManA R Forearm/ManA R Hand/ManA R Finger1
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA R Clavicle/ManA R UpperArm/ManA R Forearm/ManA R Hand/ManA R Finger1/ManA
+          R Finger11
+        weight: 1
+      - path: ManA Bip01/ManA Pelvis/ManA Spine/ManA Spine1/ManA Spine2/ManA Spine3/ManA
+          Neck/ManA R Clavicle/ManA R UpperArm/ManA R Forearm/ManA R Hand/ManA R Finger1/ManA
+          R Finger11/ManA R Finger1Nub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

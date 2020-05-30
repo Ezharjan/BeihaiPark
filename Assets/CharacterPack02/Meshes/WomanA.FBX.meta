@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: ea11d4959c353b5408ce5b4aa81b2e99
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: WomanA Bip01
+    100004: WomanA BODY
+    100006: WomanA EYE_L
+    100008: WomanA EYE_R
+    100010: WomanA Footsteps
+    100012: WomanA Head
+    100014: WomanA HeadNub
+    100016: WomanA L Calf
+    100018: WomanA L Clavicle
+    100020: WomanA L Finger0
+    100022: WomanA L Finger01
+    100024: WomanA L Finger0Nub
+    100026: WomanA L Finger1
+    100028: WomanA L Finger11
+    100030: WomanA L Finger1Nub
+    100032: WomanA L Foot
+    100034: WomanA L Forearm
+    100036: WomanA L Hand
+    100038: WomanA L Thigh
+    100040: WomanA L Toe0
+    100042: WomanA L Toe0Nub
+    100044: WomanA L UpperArm
+    100046: WomanA Neck
+    100048: WomanA Pelvis
+    100050: WomanA R Calf
+    100052: WomanA R Clavicle
+    100054: WomanA R Finger0
+    100056: WomanA R Finger01
+    100058: WomanA R Finger0Nub
+    100060: WomanA R Finger1
+    100062: WomanA R Finger11
+    100064: WomanA R Finger1Nub
+    100066: WomanA R Foot
+    100068: WomanA R Forearm
+    100070: WomanA R Hand
+    100072: WomanA R Thigh
+    100074: WomanA R Toe0
+    100076: WomanA R Toe0Nub
+    100078: WomanA R UpperArm
+    100080: WomanA Spine
+    100082: WomanA Spine1
+    100084: WomanA Spine2
+    100086: WomanA Spine3
+    100088: WomanA talk chin
+    100090: WomanA talk lower lip01
+    100092: WomanA talk lower lip02
+    100094: WomanA talk mouth l01
+    100096: WomanA talk mouth l02
+    100098: WomanA talk mouth r01
+    100100: WomanA talk mouth r02
+    100102: WomanA talk upper lip01
+    100104: WomanA talk upper lip02
+    100106: WomanA X_l01
+    100108: WomanA X_l02
+    100110: WomanA X_r01
+    100112: WomanA X_r02
+    100114: WomanA Z_l01
+    100116: WomanA Z_l02
+    100118: WomanA Z_r01
+    100120: WomanA Z_r02
+    400000: //RootNode
+    400002: WomanA Bip01
+    400004: WomanA BODY
+    400006: WomanA EYE_L
+    400008: WomanA EYE_R
+    400010: WomanA Footsteps
+    400012: WomanA Head
+    400014: WomanA HeadNub
+    400016: WomanA L Calf
+    400018: WomanA L Clavicle
+    400020: WomanA L Finger0
+    400022: WomanA L Finger01
+    400024: WomanA L Finger0Nub
+    400026: WomanA L Finger1
+    400028: WomanA L Finger11
+    400030: WomanA L Finger1Nub
+    400032: WomanA L Foot
+    400034: WomanA L Forearm
+    400036: WomanA L Hand
+    400038: WomanA L Thigh
+    400040: WomanA L Toe0
+    400042: WomanA L Toe0Nub
+    400044: WomanA L UpperArm
+    400046: WomanA Neck
+    400048: WomanA Pelvis
+    400050: WomanA R Calf
+    400052: WomanA R Clavicle
+    400054: WomanA R Finger0
+    400056: WomanA R Finger01
+    400058: WomanA R Finger0Nub
+    400060: WomanA R Finger1
+    400062: WomanA R Finger11
+    400064: WomanA R Finger1Nub
+    400066: WomanA R Foot
+    400068: WomanA R Forearm
+    400070: WomanA R Hand
+    400072: WomanA R Thigh
+    400074: WomanA R Toe0
+    400076: WomanA R Toe0Nub
+    400078: WomanA R UpperArm
+    400080: WomanA Spine
+    400082: WomanA Spine1
+    400084: WomanA Spine2
+    400086: WomanA Spine3
+    400088: WomanA talk chin
+    400090: WomanA talk lower lip01
+    400092: WomanA talk lower lip02
+    400094: WomanA talk mouth l01
+    400096: WomanA talk mouth l02
+    400098: WomanA talk mouth r01
+    400100: WomanA talk mouth r02
+    400102: WomanA talk upper lip01
+    400104: WomanA talk upper lip02
+    400106: WomanA X_l01
+    400108: WomanA X_l02
+    400110: WomanA X_r01
+    400112: WomanA X_r02
+    400114: WomanA Z_l01
+    400116: WomanA Z_l02
+    400118: WomanA Z_r01
+    400120: WomanA Z_r02
+    2300000: WomanA EYE_L
+    2300002: WomanA EYE_R
+    3300000: WomanA EYE_L
+    3300002: WomanA EYE_R
+    4300000: WomanA BODY
+    4300002: WomanA EYE_R
+    4300004: WomanA EYE_L
+    9500000: //RootNode
+    13700000: WomanA BODY
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

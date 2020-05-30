@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: fced612201ff12643964fc94c3fdbf80
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ManD Bip01
+    100004: ManD BODY
+    100006: ManD Footsteps
+    100008: ManD HEAD
+    100010: ManD Head
+    100012: ManD HeadNub
+    100014: ManD L Calf
+    100016: ManD L Clavicle
+    100018: ManD L Finger0
+    100020: ManD L Finger01
+    100022: ManD L Finger0Nub
+    100024: ManD L Finger1
+    100026: ManD L Finger11
+    100028: ManD L Finger1Nub
+    100030: ManD L Foot
+    100032: ManD L Forearm
+    100034: ManD L Hand
+    100036: ManD L Thigh
+    100038: ManD L Toe0
+    100040: ManD L Toe0Nub
+    100042: ManD L UpperArm
+    100044: ManD Neck
+    100046: ManD Pelvis
+    100048: ManD R Calf
+    100050: ManD R Clavicle
+    100052: ManD R Finger0
+    100054: ManD R Finger01
+    100056: ManD R Finger0Nub
+    100058: ManD R Finger1
+    100060: ManD R Finger11
+    100062: ManD R Finger1Nub
+    100064: ManD R Foot
+    100066: ManD R Forearm
+    100068: ManD R Hand
+    100070: ManD R Thigh
+    100072: ManD R Toe0
+    100074: ManD R Toe0Nub
+    100076: ManD R UpperArm
+    100078: ManD Spine
+    100080: ManD Spine1
+    100082: ManD Spine2
+    100084: ManD Spine3
+    100086: ManD talk chin
+    400000: //RootNode
+    400002: ManD Bip01
+    400004: ManD BODY
+    400006: ManD Footsteps
+    400008: ManD HEAD
+    400010: ManD Head
+    400012: ManD HeadNub
+    400014: ManD L Calf
+    400016: ManD L Clavicle
+    400018: ManD L Finger0
+    400020: ManD L Finger01
+    400022: ManD L Finger0Nub
+    400024: ManD L Finger1
+    400026: ManD L Finger11
+    400028: ManD L Finger1Nub
+    400030: ManD L Foot
+    400032: ManD L Forearm
+    400034: ManD L Hand
+    400036: ManD L Thigh
+    400038: ManD L Toe0
+    400040: ManD L Toe0Nub
+    400042: ManD L UpperArm
+    400044: ManD Neck
+    400046: ManD Pelvis
+    400048: ManD R Calf
+    400050: ManD R Clavicle
+    400052: ManD R Finger0
+    400054: ManD R Finger01
+    400056: ManD R Finger0Nub
+    400058: ManD R Finger1
+    400060: ManD R Finger11
+    400062: ManD R Finger1Nub
+    400064: ManD R Foot
+    400066: ManD R Forearm
+    400068: ManD R Hand
+    400070: ManD R Thigh
+    400072: ManD R Toe0
+    400074: ManD R Toe0Nub
+    400076: ManD R UpperArm
+    400078: ManD Spine
+    400080: ManD Spine1
+    400082: ManD Spine2
+    400084: ManD Spine3
+    400086: ManD talk chin
+    4300000: ManD BODY
+    4300002: ManD HEAD
+    9500000: //RootNode
+    13700000: ManD BODY
+    13700002: ManD HEAD
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

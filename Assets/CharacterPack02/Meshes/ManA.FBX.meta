@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 5277b18bdc263eb4095bca8cc9d04f15
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ManA Bip01
+    100004: ManA BODY
+    100006: ManA Eye_L
+    100008: ManA Eye_R
+    100010: ManA Footsteps
+    100012: ManA HEAD
+    100014: ManA Head
+    100016: ManA HeadNub
+    100018: ManA L Calf
+    100020: ManA L Clavicle
+    100022: ManA L Finger0
+    100024: ManA L Finger01
+    100026: ManA L Finger0Nub
+    100028: ManA L Finger1
+    100030: ManA L Finger11
+    100032: ManA L Finger1Nub
+    100034: ManA L Foot
+    100036: ManA L Forearm
+    100038: ManA L Hand
+    100040: ManA L Thigh
+    100042: ManA L Toe0
+    100044: ManA L Toe0Nub
+    100046: ManA L UpperArm
+    100048: ManA Neck
+    100050: ManA Pelvis
+    100052: ManA R Calf
+    100054: ManA R Clavicle
+    100056: ManA R Finger0
+    100058: ManA R Finger01
+    100060: ManA R Finger0Nub
+    100062: ManA R Finger1
+    100064: ManA R Finger11
+    100066: ManA R Finger1Nub
+    100068: ManA R Foot
+    100070: ManA R Forearm
+    100072: ManA R Hand
+    100074: ManA R Thigh
+    100076: ManA R Toe0
+    100078: ManA R Toe0Nub
+    100080: ManA R UpperArm
+    100082: ManA Spine
+    100084: ManA Spine1
+    100086: ManA Spine2
+    100088: ManA Spine3
+    100090: ManA talk chin
+    100092: ManA talk lower lip01
+    100094: ManA talk lower lip02
+    100096: ManA talk mouth l01
+    100098: ManA talk mouth l02
+    100100: ManA talk mouth r01
+    100102: ManA talk mouth r02
+    100104: ManA talk upper lip01
+    100106: ManA talk upper lip02
+    100108: ManA X_l01
+    100110: ManA X_l02
+    100112: ManA X_r01
+    100114: ManA X_r02
+    100116: ManA Z_l01
+    100118: ManA Z_l02
+    100120: ManA Z_r01
+    100122: ManA Z_r02
+    400000: //RootNode
+    400002: ManA Bip01
+    400004: ManA BODY
+    400006: ManA Eye_L
+    400008: ManA Eye_R
+    400010: ManA Footsteps
+    400012: ManA HEAD
+    400014: ManA Head
+    400016: ManA HeadNub
+    400018: ManA L Calf
+    400020: ManA L Clavicle
+    400022: ManA L Finger0
+    400024: ManA L Finger01
+    400026: ManA L Finger0Nub
+    400028: ManA L Finger1
+    400030: ManA L Finger11
+    400032: ManA L Finger1Nub
+    400034: ManA L Foot
+    400036: ManA L Forearm
+    400038: ManA L Hand
+    400040: ManA L Thigh
+    400042: ManA L Toe0
+    400044: ManA L Toe0Nub
+    400046: ManA L UpperArm
+    400048: ManA Neck
+    400050: ManA Pelvis
+    400052: ManA R Calf
+    400054: ManA R Clavicle
+    400056: ManA R Finger0
+    400058: ManA R Finger01
+    400060: ManA R Finger0Nub
+    400062: ManA R Finger1
+    400064: ManA R Finger11
+    400066: ManA R Finger1Nub
+    400068: ManA R Foot
+    400070: ManA R Forearm
+    400072: ManA R Hand
+    400074: ManA R Thigh
+    400076: ManA R Toe0
+    400078: ManA R Toe0Nub
+    400080: ManA R UpperArm
+    400082: ManA Spine
+    400084: ManA Spine1
+    400086: ManA Spine2
+    400088: ManA Spine3
+    400090: ManA talk chin
+    400092: ManA talk lower lip01
+    400094: ManA talk lower lip02
+    400096: ManA talk mouth l01
+    400098: ManA talk mouth l02
+    400100: ManA talk mouth r01
+    400102: ManA talk mouth r02
+    400104: ManA talk upper lip01
+    400106: ManA talk upper lip02
+    400108: ManA X_l01
+    400110: ManA X_l02
+    400112: ManA X_r01
+    400114: ManA X_r02
+    400116: ManA Z_l01
+    400118: ManA Z_l02
+    400120: ManA Z_r01
+    400122: ManA Z_r02
+    2300000: ManA Eye_L
+    2300002: ManA Eye_R
+    3300000: ManA Eye_L
+    3300002: ManA Eye_R
+    4300000: ManA HEAD
+    4300002: ManA BODY
+    4300004: ManA Eye_L
+    4300006: ManA Eye_R
+    9500000: //RootNode
+    13700000: ManA BODY
+    13700002: ManA HEAD
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
